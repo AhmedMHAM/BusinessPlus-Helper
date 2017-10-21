@@ -1,3 +1,3 @@
 # BusinessPlus-Helper
 
-Data Structures & Algorithmsin Java Robert Lafore
+Data Structures & Algorithms in Java  Robert Lafore
